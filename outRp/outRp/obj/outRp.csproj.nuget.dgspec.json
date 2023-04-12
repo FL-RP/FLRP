@@ -1,0 +1,137 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\1\\outRp\\outRp\\outRp.csproj": {}
+  },
+  "projects": {
+    "D:\\1\\outRp\\outRp\\outRp.csproj": {
+      "version": "0.1.0",
+      "restore": {
+        "projectUniqueName": "D:\\1\\outRp\\outRp\\outRp.csproj",
+        "projectName": "outRp",
+        "projectPath": "D:\\1\\outRp\\outRp\\outRp.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\1\\outRp\\outRp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AltV.Net": {
+              "target": "Package",
+              "version": "[14.0.1, )"
+            },
+            "AltV.Net.Async": {
+              "target": "Package",
+              "version": "[14.0.1, )"
+            },
+            "AltV.Net.EntitySync": {
+              "target": "Package",
+              "version": "[1.18.0, )"
+            },
+            "AltV.Net.EntitySync.ServerEvent": {
+              "target": "Package",
+              "version": "[14.0.1, )"
+            },
+            "AltV.Net.Interactions": {
+              "target": "Package",
+              "version": "[14.0.1, )"
+            },
+            "AltV.Net.Resources.Chat.Api": {
+              "target": "Package",
+              "version": "[14.0.1, )"
+            },
+            "CodeKicker.BBCode.Core": {
+              "target": "Package",
+              "version": "[1.4.2.1, )"
+            },
+            "Elastic.Apm.NetCoreAll": {
+              "target": "Package",
+              "version": "[1.20.0, )"
+            },
+            "Kook.Net": {
+              "target": "Package",
+              "version": "[0.3.1, )"
+            },
+            "Kook.Net.Commands": {
+              "target": "Package",
+              "version": "[0.3.1, )"
+            },
+            "Kook.Net.Core": {
+              "target": "Package",
+              "version": "[0.3.1, )"
+            },
+            "Kook.Net.Rest": {
+              "target": "Package",
+              "version": "[0.3.1, )"
+            },
+            "Kook.Net.WebSocket": {
+              "target": "Package",
+              "version": "[0.3.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "prometheus-net": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "outRp": {
+      "commandName": "Project",
+      "environmentVariables": {
+        //"DOTNET_STARTUP_HOOKS": "C:\\Users\\Onur Fidan\\Desktop\\elastic APM\\ElasticApmAgentStartupHook.dll"
+      }
+    }
+  }
+}

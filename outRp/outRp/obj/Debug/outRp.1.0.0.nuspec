@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>outRp</id>
+    <version>1.0.0</version>
+    <authors>Onur Fidan</authors>
+    <owners>Onur Fidan</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <copyright>Tüm hakları saklıdır.</copyright>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="AltV.Net" version="1.38.4" exclude="Build,Analyzers" />
+        <dependency id="AltV.Net.Async" version="1.38.4" exclude="Build,Analyzers" />
+        <dependency id="AltV.Net.EntitySync" version="1.6.2-dev-preview" exclude="Build,Analyzers" />
+        <dependency id="AltV.Net.EntitySync.ServerEvent" version="1.3.0-dev-preview" exclude="Build,Analyzers" />
+        <dependency id="AltV.Net.Interactions" version="1.0.0-dev-preview" exclude="Build,Analyzers" />
+        <dependency id="AltV.Net.Resources.Chat.Api" version="1.38.0" exclude="Build,Analyzers" />
+        <dependency id="MySqlConnector" version="0.69.5" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="12.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Onur Fidan\Desktop\AltV ServerCode\lsc-rp\outRp\outRp\bin\Debug\netcoreapp3.1\outRp.dll" target="lib\netcoreapp3.1\outRp.dll" />
+  </files>
+</package>

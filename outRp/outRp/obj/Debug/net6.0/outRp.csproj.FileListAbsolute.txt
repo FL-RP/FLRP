@@ -1,0 +1,366 @@
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/outRp.deps.json
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/outRp.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/ref/outRp.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/outRp.pdb
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/AltV.Net.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/AltV.Net.Async.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/AltV.Net.EntitySync.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/AltV.Net.EntitySync.ServerEvent.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/AltV.Net.Interactions.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/AltV.Net.Resources.Chat.Api.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/Ben.Demystifier.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/CodeKicker.BBCode.Core.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/Discord.Net.Commands.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/Discord.Net.Core.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/Discord.Net.Rest.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/Discord.Net.Webhook.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/Discord.Net.WebSocket.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/Elastic.Apm.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/Elastic.Apm.AspNetCore.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/Elastic.Apm.Elasticsearch.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/Elastic.Apm.EntityFrameworkCore.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/Elastic.Apm.Extensions.Hosting.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/Elastic.Apm.Extensions.Logging.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/Elastic.Apm.GrpcClient.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/Elastic.Apm.NetCoreAll.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/Elastic.Apm.SqlClient.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/Elasticsearch.Net.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/Dia2Lib.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/Microsoft.Diagnostics.FastSerialization.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/Microsoft.Diagnostics.Tracing.TraceEvent.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/OSExtensions.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/TraceReloggerLib.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/MySqlConnector.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/Newtonsoft.Json.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/Prometheus.NetCore.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/Prometheus.NetStandard.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/System.Diagnostics.PerformanceCounter.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/System.Interactive.Async.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/System.Linq.Async.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/System.Security.Permissions.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/de-DE/CodeKicker.BBCode.Core.resources.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/it-IT/CodeKicker.BBCode.Core.resources.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+A:/lsc-rp/outRp/outRp/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+A:/lsc-rp/outRp/outRp/obj/Debug/net6.0/outRp.csproj.AssemblyReference.cache
+A:/lsc-rp/outRp/outRp/obj/Debug/net6.0/outRp.Properties.Resources.resources
+A:/lsc-rp/outRp/outRp/obj/Debug/net6.0/outRp.csproj.GenerateResource.cache
+A:/lsc-rp/outRp/outRp/obj/Debug/net6.0/outRp.GeneratedMSBuildEditorConfig.editorconfig
+A:/lsc-rp/outRp/outRp/obj/Debug/net6.0/outRp.AssemblyInfoInputs.cache
+A:/lsc-rp/outRp/outRp/obj/Debug/net6.0/outRp.AssemblyInfo.cs
+A:/lsc-rp/outRp/outRp/obj/Debug/net6.0/outRp.csproj.CoreCompileInputs.cache
+A:/lsc-rp/outRp/outRp/obj/Debug/net6.0/outRp.csproj.CopyComplete
+A:/lsc-rp/outRp/outRp/obj/Debug/net6.0/outRp.dll
+A:/lsc-rp/outRp/outRp/obj/Debug/net6.0/ref/outRp.dll
+A:/lsc-rp/outRp/outRp/obj/Debug/net6.0/outRp.pdb
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/outRp.deps.json
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/outRp.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/outRp.pdb
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/AltV.Net.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/AltV.Net.Async.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/AltV.Net.EntitySync.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/AltV.Net.EntitySync.ServerEvent.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/AltV.Net.Interactions.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/AltV.Net.Resources.Chat.Api.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/Ben.Demystifier.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/CodeKicker.BBCode.Core.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/Discord.Net.Commands.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/Discord.Net.Core.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/Discord.Net.Rest.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/Discord.Net.Webhook.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/Discord.Net.WebSocket.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/Elastic.Apm.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/Elastic.Apm.AspNetCore.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/Elastic.Apm.Elasticsearch.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/Elastic.Apm.EntityFrameworkCore.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/Elastic.Apm.Extensions.Hosting.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/Elastic.Apm.Extensions.Logging.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/Elastic.Apm.GrpcClient.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/Elastic.Apm.NetCoreAll.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/Elastic.Apm.SqlClient.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/Elasticsearch.Net.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/Dia2Lib.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/Microsoft.Diagnostics.FastSerialization.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/Microsoft.Diagnostics.Tracing.TraceEvent.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/OSExtensions.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/TraceReloggerLib.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/MySqlConnector.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/Prometheus.NetCore.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/Prometheus.NetStandard.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/System.Diagnostics.PerformanceCounter.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/System.Interactive.Async.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/System.Linq.Async.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/System.Security.Permissions.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/de-DE/CodeKicker.BBCode.Core.resources.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/it-IT/CodeKicker.BBCode.Core.resources.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+/home/hdd/github/lsc-rp/outRp/outRp/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/hdd/github/lsc-rp/outRp/outRp/obj/Debug/net6.0/outRp.csproj.AssemblyReference.cache
+/home/hdd/github/lsc-rp/outRp/outRp/obj/Debug/net6.0/outRp.Properties.Resources.resources
+/home/hdd/github/lsc-rp/outRp/outRp/obj/Debug/net6.0/outRp.csproj.GenerateResource.cache
+/home/hdd/github/lsc-rp/outRp/outRp/obj/Debug/net6.0/outRp.GeneratedMSBuildEditorConfig.editorconfig
+/home/hdd/github/lsc-rp/outRp/outRp/obj/Debug/net6.0/outRp.AssemblyInfoInputs.cache
+/home/hdd/github/lsc-rp/outRp/outRp/obj/Debug/net6.0/outRp.AssemblyInfo.cs
+/home/hdd/github/lsc-rp/outRp/outRp/obj/Debug/net6.0/outRp.csproj.CoreCompileInputs.cache
+/home/hdd/github/lsc-rp/outRp/outRp/obj/Debug/net6.0/outRp.csproj.CopyComplete
+/home/hdd/github/lsc-rp/outRp/outRp/obj/Debug/net6.0/outRp.dll
+/home/hdd/github/lsc-rp/outRp/outRp/obj/Debug/net6.0/refint/outRp.dll
+/home/hdd/github/lsc-rp/outRp/outRp/obj/Debug/net6.0/outRp.pdb
+/home/hdd/github/lsc-rp/outRp/outRp/obj/Debug/net6.0/ref/outRp.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\outRp.deps.json
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\outRp.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\outRp.pdb
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\AltV.Net.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\AltV.Net.Async.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\AltV.Net.EntitySync.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\AltV.Net.EntitySync.ServerEvent.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\AltV.Net.Interactions.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\AltV.Net.Resources.Chat.Api.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\Ben.Demystifier.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\CodeKicker.BBCode.Core.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\Discord.Net.Commands.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\Discord.Net.Core.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\Discord.Net.Rest.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\Discord.Net.Webhook.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\Discord.Net.WebSocket.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\Elastic.Apm.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\Elastic.Apm.AspNetCore.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\Elastic.Apm.Elasticsearch.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\Elastic.Apm.EntityFrameworkCore.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\Elastic.Apm.Extensions.Hosting.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\Elastic.Apm.Extensions.Logging.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\Elastic.Apm.GrpcClient.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\Elastic.Apm.NetCoreAll.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\Elastic.Apm.SqlClient.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\Elasticsearch.Net.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\Dia2Lib.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\Microsoft.Diagnostics.FastSerialization.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\OSExtensions.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\TraceReloggerLib.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\MySqlConnector.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\Prometheus.NetCore.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\Prometheus.NetStandard.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\System.Interactive.Async.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\System.Linq.Async.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\de-DE\CodeKicker.BBCode.Core.resources.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\it-IT\CodeKicker.BBCode.Core.resources.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\obj\Debug\net6.0\outRp.csproj.AssemblyReference.cache
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\obj\Debug\net6.0\outRp.Properties.Resources.resources
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\obj\Debug\net6.0\outRp.csproj.GenerateResource.cache
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\obj\Debug\net6.0\outRp.GeneratedMSBuildEditorConfig.editorconfig
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\obj\Debug\net6.0\outRp.AssemblyInfoInputs.cache
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\obj\Debug\net6.0\outRp.AssemblyInfo.cs
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\obj\Debug\net6.0\outRp.csproj.CoreCompileInputs.cache
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\obj\Debug\net6.0\outRp.csproj.CopyComplete
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\obj\Debug\net6.0\outRp.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\obj\Debug\net6.0\refint\outRp.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\obj\Debug\net6.0\outRp.pdb
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\obj\Debug\net6.0\ref\outRp.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\AltV.Net.CApi.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Debug\net6.0\AltV.Net.Shared.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\outRp.deps.json
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\outRp.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\outRp.pdb
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\AltV.Net.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\AltV.Net.Async.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\AltV.Net.CApi.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\AltV.Net.EntitySync.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\AltV.Net.EntitySync.ServerEvent.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\AltV.Net.Interactions.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\AltV.Net.Resources.Chat.Api.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\AltV.Net.Shared.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\Ben.Demystifier.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\CodeKicker.BBCode.Core.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\Discord.Net.Commands.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\Discord.Net.Core.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\Discord.Net.Rest.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\Discord.Net.Webhook.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\Discord.Net.WebSocket.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\Elastic.Apm.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\Elastic.Apm.AspNetCore.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\Elastic.Apm.Elasticsearch.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\Elastic.Apm.EntityFrameworkCore.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\Elastic.Apm.Extensions.Hosting.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\Elastic.Apm.Extensions.Logging.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\Elastic.Apm.GrpcClient.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\Elastic.Apm.NetCoreAll.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\Elastic.Apm.SqlClient.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\Elasticsearch.Net.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\Dia2Lib.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\Microsoft.Diagnostics.FastSerialization.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\OSExtensions.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\TraceReloggerLib.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\Prometheus.NetCore.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\Prometheus.NetStandard.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\System.Interactive.Async.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\System.Linq.Async.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\de-DE\CodeKicker.BBCode.Core.resources.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\it-IT\CodeKicker.BBCode.Core.resources.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\obj\Debug\net6.0\outRp.csproj.AssemblyReference.cache
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\obj\Debug\net6.0\outRp.Properties.Resources.resources
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\obj\Debug\net6.0\outRp.csproj.GenerateResource.cache
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\obj\Debug\net6.0\outRp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\obj\Debug\net6.0\outRp.AssemblyInfoInputs.cache
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\obj\Debug\net6.0\outRp.AssemblyInfo.cs
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\obj\Debug\net6.0\outRp.csproj.CoreCompileInputs.cache
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\obj\Debug\net6.0\outRp.csproj.CopyComplete
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\obj\Debug\net6.0\outRp.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\obj\Debug\net6.0\refint\outRp.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\obj\Debug\net6.0\outRp.pdb
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\obj\Debug\net6.0\ref\outRp.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\outRp.deps.json
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\outRp.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\outRp.pdb
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\AltV.Net.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\AltV.Net.Async.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\AltV.Net.CApi.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\AltV.Net.EntitySync.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\AltV.Net.EntitySync.ServerEvent.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\AltV.Net.Interactions.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\AltV.Net.Resources.Chat.Api.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\AltV.Net.Shared.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\Ben.Demystifier.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\CodeKicker.BBCode.Core.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\Elastic.Apm.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\Elastic.Apm.AspNetCore.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\Elastic.Apm.Elasticsearch.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\Elastic.Apm.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\Elastic.Apm.Extensions.Hosting.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\Elastic.Apm.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\Elastic.Apm.GrpcClient.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\Elastic.Apm.NetCoreAll.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\Elastic.Apm.SqlClient.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\Elasticsearch.Net.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\Dia2Lib.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\Microsoft.Diagnostics.FastSerialization.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\OSExtensions.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\TraceReloggerLib.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\Prometheus.NetCore.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\Prometheus.NetStandard.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\System.Linq.Async.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\de-DE\CodeKicker.BBCode.Core.resources.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\it-IT\CodeKicker.BBCode.Core.resources.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\outRp\outRp\obj\Debug\net6.0\outRp.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\outRp\outRp\obj\Debug\net6.0\outRp.Properties.Resources.resources
+C:\Users\Administrator\Desktop\outRp\outRp\obj\Debug\net6.0\outRp.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\outRp\outRp\obj\Debug\net6.0\outRp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\outRp\outRp\obj\Debug\net6.0\outRp.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\outRp\outRp\obj\Debug\net6.0\outRp.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\outRp\outRp\obj\Debug\net6.0\outRp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\outRp\outRp\obj\Debug\net6.0\outRp.csproj.CopyComplete
+C:\Users\Administrator\Desktop\outRp\outRp\obj\Debug\net6.0\outRp.dll
+C:\Users\Administrator\Desktop\outRp\outRp\obj\Debug\net6.0\refint\outRp.dll
+C:\Users\Administrator\Desktop\outRp\outRp\obj\Debug\net6.0\outRp.pdb
+C:\Users\Administrator\Desktop\outRp\outRp\obj\Debug\net6.0\ref\outRp.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\outRp.dll.config
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\Kook.Net.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\Kook.Net.Commands.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\Kook.Net.Core.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\Kook.Net.Rest.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\Kook.Net.WebSocket.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Administrator\Desktop\outRp\outRp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Administrator\Desktop\outRp\outRp\obj\Debug\net6.0\outRp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\outRp\outRp\obj\Debug\net6.0\outRp.dll.config
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\outRp.dll.config
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\outRp.deps.json
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\outRp.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\outRp.pdb
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\AltV.Net.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\AltV.Net.Async.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\AltV.Net.CApi.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\AltV.Net.EntitySync.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\AltV.Net.EntitySync.ServerEvent.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\AltV.Net.Interactions.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\AltV.Net.Shared.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\Ben.Demystifier.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\CodeKicker.BBCode.Core.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\Elastic.Apm.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\Elastic.Apm.AspNetCore.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\Elastic.Apm.Elasticsearch.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\Elastic.Apm.EntityFrameworkCore.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\Elastic.Apm.Extensions.Hosting.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\Elastic.Apm.Extensions.Logging.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\Elastic.Apm.GrpcClient.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\Elastic.Apm.NetCoreAll.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\Elastic.Apm.SqlClient.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\Elasticsearch.Net.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\Kook.Net.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\Kook.Net.Commands.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\Kook.Net.Core.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\Kook.Net.Rest.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\Kook.Net.WebSocket.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\Dia2Lib.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\Microsoft.Diagnostics.FastSerialization.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\OSExtensions.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\TraceReloggerLib.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\MySqlConnector.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\Prometheus.NetCore.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\Prometheus.NetStandard.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\System.Collections.Immutable.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\System.Linq.Async.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\System.Text.Json.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\de-DE\CodeKicker.BBCode.Core.resources.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\it-IT\CodeKicker.BBCode.Core.resources.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\altV归档2022\outRp\outRp\obj\Debug\net6.0\outRp.csproj.AssemblyReference.cache
+E:\altV归档2022\outRp\outRp\obj\Debug\net6.0\outRp.csproj.SuggestedBindingRedirects.cache
+E:\altV归档2022\outRp\outRp\obj\Debug\net6.0\outRp.dll.config
+E:\altV归档2022\outRp\outRp\obj\Debug\net6.0\outRp.Properties.Resources.resources
+E:\altV归档2022\outRp\outRp\obj\Debug\net6.0\outRp.csproj.GenerateResource.cache
+E:\altV归档2022\outRp\outRp\obj\Debug\net6.0\outRp.GeneratedMSBuildEditorConfig.editorconfig
+E:\altV归档2022\outRp\outRp\obj\Debug\net6.0\outRp.AssemblyInfoInputs.cache
+E:\altV归档2022\outRp\outRp\obj\Debug\net6.0\outRp.AssemblyInfo.cs
+E:\altV归档2022\outRp\outRp\obj\Debug\net6.0\outRp.csproj.CoreCompileInputs.cache
+E:\altV归档2022\outRp\outRp\obj\Debug\net6.0\outRp.csproj.CopyComplete
+E:\altV归档2022\outRp\outRp\obj\Debug\net6.0\outRp.dll
+E:\altV归档2022\outRp\outRp\obj\Debug\net6.0\refint\outRp.dll
+E:\altV归档2022\outRp\outRp\obj\Debug\net6.0\outRp.pdb
+E:\altV归档2022\outRp\outRp\obj\Debug\net6.0\ref\outRp.dll
+E:\altV归档2022\outRp\outRp\bin\Debug\net6.0\AltV.Net.Resources.Chat.Api.dll

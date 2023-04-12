@@ -1,0 +1,104 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+    <UseWPF>false</UseWPF>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId></PackageId>
+    <Authors>Onur Fidan</Authors>
+    <Company></Company>
+    <Copyright>Tüm hakları saklıdır.</Copyright>
+    <Product />
+    <Nullable>annotations</Nullable>
+    <Version>0.1.0</Version>
+    <AnalysisLevel>5.0</AnalysisLevel>
+    <Configurations>Debug;Release;linux</Configurations>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <GenerateBindingRedirectsOutputType>true</GenerateBindingRedirectsOutputType>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <GenerateBindingRedirectsOutputType>true</GenerateBindingRedirectsOutputType>
+    <OutputPath></OutputPath>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='linux|AnyCPU'">
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <GenerateBindingRedirectsOutputType>true</GenerateBindingRedirectsOutputType>
+    <OutputPath />
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <GenerateBindingRedirectsOutputType>true</GenerateBindingRedirectsOutputType>
+    <DocumentationFile></DocumentationFile>
+    <OutputPath></OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Globals\Commands\MainCommands.cs~RF4f9683.TMP\**" />
+    <EmbeddedResource Remove="Globals\Commands\MainCommands.cs~RF4f9683.TMP\**" />
+    <None Remove="Globals\Commands\MainCommands.cs~RF4f9683.TMP\**" />
+    <Page Remove="Globals\Commands\MainCommands.cs~RF4f9683.TMP\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Login\Login.cs~RF1023a7.TMP" />
+    <None Remove="Vehicle\VehicleMain.cs~RF1406cee.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AltV.Net" Version="14.0.1" />
+    <PackageReference Include="AltV.Net.Async" Version="14.0.1" />
+    <PackageReference Include="AltV.Net.EntitySync" Version="1.18.0" />
+    <PackageReference Include="AltV.Net.EntitySync.ServerEvent" Version="14.0.1" />
+    <PackageReference Include="AltV.Net.Interactions" Version="14.0.1" />
+    <PackageReference Include="AltV.Net.Resources.Chat.Api" Version="14.0.1" />
+    <PackageReference Include="CodeKicker.BBCode.Core" Version="1.4.2.1" />
+    <PackageReference Include="Elastic.Apm.NetCoreAll" Version="1.20.0" />
+    <PackageReference Include="Kook.Net" Version="0.3.1" />
+    <PackageReference Include="Kook.Net.Commands" Version="0.3.1" />
+    <PackageReference Include="Kook.Net.Core" Version="0.3.1" />
+    <PackageReference Include="Kook.Net.Rest" Version="0.3.1" />
+    <PackageReference Include="Kook.Net.WebSocket" Version="0.3.1" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="7.0.0" />
+    <PackageReference Include="MySqlConnector" Version="2.2.5" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="prometheus-net" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="AntiCheat">
+      <HintPath>..\..\..\lsc AntiCheat\AntiCheat\AntiCheat\bin\Debug\net5.0\AntiCheat.dll</HintPath>
+    </Reference>
+    <Reference Include="BasicTimer">
+      <HintPath>..\BasicTimer.dll</HintPath>
+    </Reference>
+    <Reference Include="ReTimerLib">
+      <HintPath>..\ReTimerLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

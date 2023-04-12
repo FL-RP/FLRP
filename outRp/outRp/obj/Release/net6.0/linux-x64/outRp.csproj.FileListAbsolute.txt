@@ -1,0 +1,228 @@
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\outRp.deps.json
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\outRp.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\outRp.pdb
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\AltV.Net.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\AltV.Net.Async.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\AltV.Net.CApi.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\AltV.Net.EntitySync.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\AltV.Net.EntitySync.ServerEvent.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\AltV.Net.Interactions.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\AltV.Net.Resources.Chat.Api.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\AltV.Net.Shared.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Ben.Demystifier.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\CodeKicker.BBCode.Core.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Discord.Net.Commands.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Discord.Net.Core.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Discord.Net.Rest.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Discord.Net.Webhook.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Discord.Net.WebSocket.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.AspNetCore.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.Elasticsearch.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.EntityFrameworkCore.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.Extensions.Hosting.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.Extensions.Logging.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.GrpcClient.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.NetCoreAll.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.SqlClient.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Elasticsearch.Net.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Dia2Lib.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Microsoft.Diagnostics.FastSerialization.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\OSExtensions.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\TraceReloggerLib.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\MySqlConnector.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Newtonsoft.Json.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Prometheus.NetCore.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Prometheus.NetStandard.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\System.Configuration.ConfigurationManager.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\System.Diagnostics.PerformanceCounter.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\System.Interactive.Async.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\System.Linq.Async.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\System.Security.Cryptography.ProtectedData.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\System.Security.Permissions.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\de-DE\CodeKicker.BBCode.Core.resources.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\it-IT\CodeKicker.BBCode.Core.resources.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\outRp.csproj.AssemblyReference.cache
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\outRp.Properties.Resources.resources
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\outRp.csproj.GenerateResource.cache
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\outRp.GeneratedMSBuildEditorConfig.editorconfig
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\outRp.AssemblyInfoInputs.cache
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\outRp.AssemblyInfo.cs
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\outRp.csproj.CoreCompileInputs.cache
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\outRp.csproj.CopyComplete
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\outRp.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\refint\outRp.dll
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\outRp.pdb
+G:\GITHUB Projeleri\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\ref\outRp.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\outRp.deps.json
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\outRp.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\outRp.pdb
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\AltV.Net.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\AltV.Net.Async.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\AltV.Net.CApi.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\AltV.Net.EntitySync.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\AltV.Net.EntitySync.ServerEvent.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\AltV.Net.Interactions.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\AltV.Net.Resources.Chat.Api.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\AltV.Net.Shared.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Ben.Demystifier.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\CodeKicker.BBCode.Core.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Discord.Net.Commands.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Discord.Net.Core.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Discord.Net.Rest.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Discord.Net.Webhook.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Discord.Net.WebSocket.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.AspNetCore.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.Elasticsearch.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.EntityFrameworkCore.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.Extensions.Hosting.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.Extensions.Logging.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.GrpcClient.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.NetCoreAll.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.SqlClient.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Elasticsearch.Net.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Dia2Lib.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Microsoft.Diagnostics.FastSerialization.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\OSExtensions.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\TraceReloggerLib.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\MySqlConnector.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Newtonsoft.Json.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Prometheus.NetCore.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Prometheus.NetStandard.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\System.Configuration.ConfigurationManager.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\System.Diagnostics.PerformanceCounter.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\System.Interactive.Async.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\System.Linq.Async.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\System.Security.Cryptography.ProtectedData.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\System.Security.Permissions.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\de-DE\CodeKicker.BBCode.Core.resources.dll
+F:\LSC\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\it-IT\CodeKicker.BBCode.Core.resources.dll
+F:\LSC\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\outRp.csproj.AssemblyReference.cache
+F:\LSC\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\outRp.Properties.Resources.resources
+F:\LSC\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\outRp.csproj.GenerateResource.cache
+F:\LSC\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\outRp.GeneratedMSBuildEditorConfig.editorconfig
+F:\LSC\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\outRp.AssemblyInfoInputs.cache
+F:\LSC\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\outRp.AssemblyInfo.cs
+F:\LSC\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\outRp.csproj.CoreCompileInputs.cache
+F:\LSC\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\outRp.csproj.CopyComplete
+F:\LSC\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\outRp.dll
+F:\LSC\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\refint\outRp.dll
+F:\LSC\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\outRp.pdb
+F:\LSC\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\ref\outRp.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\outRp.deps.json
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\outRp.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\outRp.pdb
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\AltV.Net.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\AltV.Net.Async.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\AltV.Net.CApi.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\AltV.Net.EntitySync.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\AltV.Net.EntitySync.ServerEvent.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\AltV.Net.Interactions.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\AltV.Net.Resources.Chat.Api.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\AltV.Net.Shared.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\Ben.Demystifier.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\CodeKicker.BBCode.Core.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\Discord.Net.Commands.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\Discord.Net.Core.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\Discord.Net.Rest.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\Discord.Net.Webhook.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\Discord.Net.WebSocket.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.AspNetCore.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.Elasticsearch.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.EntityFrameworkCore.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.Extensions.Hosting.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.Extensions.Logging.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.GrpcClient.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.NetCoreAll.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.SqlClient.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\Elasticsearch.Net.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\Dia2Lib.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\Microsoft.Diagnostics.FastSerialization.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\OSExtensions.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\TraceReloggerLib.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\MySqlConnector.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\Newtonsoft.Json.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\Prometheus.NetCore.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\Prometheus.NetStandard.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\System.Configuration.ConfigurationManager.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\System.Diagnostics.PerformanceCounter.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\System.Interactive.Async.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\System.Linq.Async.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\System.Security.Permissions.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\de-DE\CodeKicker.BBCode.Core.resources.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\bin\Release\net6.0\linux-x64\it-IT\CodeKicker.BBCode.Core.resources.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\obj\Release\net6.0\linux-x64\outRp.csproj.AssemblyReference.cache
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\obj\Release\net6.0\linux-x64\outRp.Properties.Resources.resources
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\obj\Release\net6.0\linux-x64\outRp.csproj.GenerateResource.cache
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\obj\Release\net6.0\linux-x64\outRp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\obj\Release\net6.0\linux-x64\outRp.AssemblyInfoInputs.cache
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\obj\Release\net6.0\linux-x64\outRp.AssemblyInfo.cs
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\obj\Release\net6.0\linux-x64\outRp.csproj.CoreCompileInputs.cache
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\obj\Release\net6.0\linux-x64\outRp.csproj.CopyComplete
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\obj\Release\net6.0\linux-x64\outRp.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\obj\Release\net6.0\linux-x64\refint\outRp.dll
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\obj\Release\net6.0\linux-x64\outRp.pdb
+C:\Users\osoz2\Desktop\LSC\lsc-rp\outrp\outRp\obj\Release\net6.0\linux-x64\ref\outRp.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\outRp.deps.json
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\outRp.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\outRp.pdb
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\AltV.Net.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\AltV.Net.Async.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\AltV.Net.CApi.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\AltV.Net.EntitySync.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\AltV.Net.EntitySync.ServerEvent.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\AltV.Net.Interactions.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\AltV.Net.Resources.Chat.Api.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\AltV.Net.Shared.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Ben.Demystifier.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\CodeKicker.BBCode.Core.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Discord.Net.Commands.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Discord.Net.Core.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Discord.Net.Rest.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Discord.Net.Webhook.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Discord.Net.WebSocket.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.AspNetCore.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.Elasticsearch.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.EntityFrameworkCore.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.Extensions.Hosting.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.Extensions.Logging.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.GrpcClient.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.NetCoreAll.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Elastic.Apm.SqlClient.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Elasticsearch.Net.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Dia2Lib.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Microsoft.Diagnostics.FastSerialization.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\OSExtensions.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\TraceReloggerLib.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\MySqlConnector.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Newtonsoft.Json.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Prometheus.NetCore.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\Prometheus.NetStandard.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\System.Configuration.ConfigurationManager.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\System.Diagnostics.PerformanceCounter.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\System.Interactive.Async.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\System.Linq.Async.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\System.Security.Cryptography.ProtectedData.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\System.Security.Permissions.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\de-DE\CodeKicker.BBCode.Core.resources.dll
+F:\lsc-rp\outRp\outRp\bin\Release\net6.0\linux-x64\it-IT\CodeKicker.BBCode.Core.resources.dll
+F:\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\outRp.csproj.AssemblyReference.cache
+F:\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\outRp.Properties.Resources.resources
+F:\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\outRp.csproj.GenerateResource.cache
+F:\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\outRp.GeneratedMSBuildEditorConfig.editorconfig
+F:\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\outRp.AssemblyInfoInputs.cache
+F:\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\outRp.AssemblyInfo.cs
+F:\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\outRp.csproj.CoreCompileInputs.cache
+F:\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\outRp.csproj.CopyComplete
+F:\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\outRp.dll
+F:\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\refint\outRp.dll
+F:\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\outRp.pdb
+F:\lsc-rp\outRp\outRp\obj\Release\net6.0\linux-x64\ref\outRp.dll

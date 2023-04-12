@@ -1,0 +1,59 @@
+C:\Users\Onur Fidan\Desktop\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\outRp.deps.json
+C:\Users\Onur Fidan\Desktop\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\outRp.dll
+C:\Users\Onur Fidan\Desktop\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\ref\outRp.dll
+C:\Users\Onur Fidan\Desktop\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\outRp.pdb
+C:\Users\Onur Fidan\Desktop\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\AltV.Net.dll
+C:\Users\Onur Fidan\Desktop\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\AltV.Net.Async.dll
+C:\Users\Onur Fidan\Desktop\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\AltV.Net.EntitySync.dll
+C:\Users\Onur Fidan\Desktop\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\AltV.Net.EntitySync.ServerEvent.dll
+C:\Users\Onur Fidan\Desktop\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\AltV.Net.Interactions.dll
+C:\Users\Onur Fidan\Desktop\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\AltV.Net.Resources.Chat.Api.dll
+C:\Users\Onur Fidan\Desktop\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\MySqlConnector.dll
+C:\Users\Onur Fidan\Desktop\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Onur Fidan\Desktop\AltV ServerCode\lsc-rp\outRp\outRp\obj\Release\net5.0-windows\outRp.Properties.Resources.resources
+C:\Users\Onur Fidan\Desktop\AltV ServerCode\lsc-rp\outRp\outRp\obj\Release\net5.0-windows\outRp.csproj.GenerateResource.cache
+C:\Users\Onur Fidan\Desktop\AltV ServerCode\lsc-rp\outRp\outRp\obj\Release\net5.0-windows\outRp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onur Fidan\Desktop\AltV ServerCode\lsc-rp\outRp\outRp\obj\Release\net5.0-windows\outRp.AssemblyInfoInputs.cache
+C:\Users\Onur Fidan\Desktop\AltV ServerCode\lsc-rp\outRp\outRp\obj\Release\net5.0-windows\outRp.AssemblyInfo.cs
+C:\Users\Onur Fidan\Desktop\AltV ServerCode\lsc-rp\outRp\outRp\obj\Release\net5.0-windows\outRp.csproj.CoreCompileInputs.cache
+C:\Users\Onur Fidan\Desktop\AltV ServerCode\lsc-rp\outRp\outRp\obj\Release\net5.0-windows\outRp.csproj.CopyComplete
+C:\Users\Onur Fidan\Desktop\AltV ServerCode\lsc-rp\outRp\outRp\obj\Release\net5.0-windows\outRp.dll
+C:\Users\Onur Fidan\Desktop\AltV ServerCode\lsc-rp\outRp\outRp\obj\Release\net5.0-windows\ref\outRp.dll
+C:\Users\Onur Fidan\Desktop\AltV ServerCode\lsc-rp\outRp\outRp\obj\Release\net5.0-windows\outRp.pdb
+C:\Users\Onur Fidan\Desktop\AltV ServerCode\lsc-rp\outRp\outRp\obj\Release\net5.0-windows\outRp.csprojAssemblyReference.cache
+S:\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\outRp.deps.json
+S:\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\outRp.dll
+S:\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\ref\outRp.dll
+S:\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\outRp.pdb
+S:\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\AltV.Net.dll
+S:\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\AltV.Net.Async.dll
+S:\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\AltV.Net.EntitySync.dll
+S:\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\AltV.Net.EntitySync.ServerEvent.dll
+S:\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\AltV.Net.Interactions.dll
+S:\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\AltV.Net.Resources.Chat.Api.dll
+S:\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\MySqlConnector.dll
+S:\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\Newtonsoft.Json.dll
+S:\AltV ServerCode\lsc-rp\outRp\outRp\obj\Release\net5.0-windows\outRp.csprojAssemblyReference.cache
+S:\AltV ServerCode\lsc-rp\outRp\outRp\obj\Release\net5.0-windows\outRp.Properties.Resources.resources
+S:\AltV ServerCode\lsc-rp\outRp\outRp\obj\Release\net5.0-windows\outRp.csproj.GenerateResource.cache
+S:\AltV ServerCode\lsc-rp\outRp\outRp\obj\Release\net5.0-windows\outRp.GeneratedMSBuildEditorConfig.editorconfig
+S:\AltV ServerCode\lsc-rp\outRp\outRp\obj\Release\net5.0-windows\outRp.AssemblyInfoInputs.cache
+S:\AltV ServerCode\lsc-rp\outRp\outRp\obj\Release\net5.0-windows\outRp.AssemblyInfo.cs
+S:\AltV ServerCode\lsc-rp\outRp\outRp\obj\Release\net5.0-windows\outRp.csproj.CoreCompileInputs.cache
+S:\AltV ServerCode\lsc-rp\outRp\outRp\obj\Release\net5.0-windows\outRp.csproj.CopyComplete
+S:\AltV ServerCode\lsc-rp\outRp\outRp\obj\Release\net5.0-windows\outRp.dll
+S:\AltV ServerCode\lsc-rp\outRp\outRp\obj\Release\net5.0-windows\ref\outRp.dll
+S:\AltV ServerCode\lsc-rp\outRp\outRp\obj\Release\net5.0-windows\outRp.pdb
+S:\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\CodeKicker.BBCode.Core.dll
+S:\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\de-DE\CodeKicker.BBCode.Core.resources.dll
+S:\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\it-IT\CodeKicker.BBCode.Core.resources.dll
+S:\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\Discord.Net.Commands.dll
+S:\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\Discord.Net.Core.dll
+S:\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\Discord.Net.Rest.dll
+S:\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\Discord.Net.Webhook.dll
+S:\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\Discord.Net.WebSocket.dll
+S:\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\System.Interactive.Async.dll
+S:\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\System.Linq.Async.dll
+S:\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+S:\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\AntiCheat.dll
+S:\AltV ServerCode\lsc-rp\outRp\outRp\bin\Release\net5.0-windows\AntiCheat.pdb

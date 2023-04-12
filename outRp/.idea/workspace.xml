@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e3a1bd7-64dc-4211-8afe-408c9940764f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.outRp/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.outRp/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.outRp/.idea/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Supercharger/_/DTabsHistory.dat" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Supercharger/_/DTabsHistory.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Supercharger/outRp/codemap.dat" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Supercharger/outRp/codemap.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Supercharger/outRp/global_history.dat" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Supercharger/outRp/global_history.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/outRp/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/outRp/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/outRp/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/outRp/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/Chat/MainChat.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/Chat/MainChat.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/Company/systems/Jobs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/Company/systems/Jobs.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/Core/Core.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/Core/Core.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/Core/Logger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/Core/Logger.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/Database/DatabaseMain.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/Database/DatabaseMain.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/Discord/Main.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/Discord/Main.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/Factions/Faction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/Factions/Faction.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/Globals/Commands/AdminCommands.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/Globals/Commands/AdminCommands.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/Globals/Commands/MainCommands.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/Globals/Commands/MainCommands.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/Globals/GlobalEvents.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/Globals/GlobalEvents.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/Globals/ServerStrings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/Globals/ServerStrings.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/Globals/System/FD.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/Globals/System/FD.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/Globals/System/News.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/Globals/System/News.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/Globals/System/PD.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/Globals/System/PD.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/Login/Login.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/Login/Login.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/Main.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/Main.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/Models/AccountModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/Models/AccountModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/Models/BusinessModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/Models/BusinessModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/Models/CharacterModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/Models/CharacterModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/Models/Crate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/Models/Crate.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/Models/GarageModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/Models/GarageModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/Models/HouseModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/Models/HouseModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/Models/InventoryModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/Models/InventoryModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/Models/VehicleModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/Models/VehicleModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/Animations.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/Animations.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/ClothingShop.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/ClothingShop.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/Inventory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/Inventory.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/ATM.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/ATM.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/AutoRepairSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/AutoRepairSystem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/Barber.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/Barber.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/BlipSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/BlipSystem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/Boombox.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/Boombox.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/CarJack.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/CargoJob.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/CargoJob.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/DeadSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/DeadSystem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/Drug.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/Drug.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/Fishing.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/Fishing.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/GiveAwaySystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/GiveAwaySystem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/GroundObjects.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/GroundObjects.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/InformationMarkers.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/InformationMarkers.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/MDC.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/MDC.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/OOCmarket.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/OOCmarket.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/PdClothingSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/PdClothingSystem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/PlayerMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/PlayerMenu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/RacingSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/RacingSystem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/ReportHelp.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/ReportHelp.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/TaxiJob.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/TaxiJob.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/Tent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/Tent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/TruckerJob.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/TruckerJob.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/VehicleModify.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/VehicleModify.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/VehicleTaxPayment.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/VehicleTaxPayment.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/VehicleVendor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/VehicleVendor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/WeaponSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/WeaponSystem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/WeedVendors.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/WeedVendors.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/cksystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/cksystem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/objectSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/LSCsystems/objectSystem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/Phone/PhoneMain.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/Phone/PhoneMain.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/StatSystem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/antiCheat.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/antiCheat.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/OtherSystem/otherEnv.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/OtherSystem/otherEnv.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/Props/Business.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/Props/Business.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/Props/Houses.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/Props/Houses.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/ServerEvents.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/ServerEvents.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/Vehicle/VehicleMain.cs" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/Vehicle/VehicleMain.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/bin/Debug/net5.0-windows/AltV.Net.Async.dll" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/bin/Debug/net5.0-windows/AltV.Net.Async.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/bin/Debug/net5.0-windows/AltV.Net.dll" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/bin/Debug/net5.0-windows/AltV.Net.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/bin/Debug/net5.0-windows/outRp.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/bin/Debug/net5.0-windows/outRp.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/bin/Debug/net5.0-windows/outRp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/bin/Debug/net5.0-windows/outRp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/bin/Debug/net5.0-windows/outRp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/bin/Debug/net5.0-windows/outRp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/bin/Debug/net5.0-windows/ref/outRp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/bin/Debug/net5.0-windows/ref/outRp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/bin/Debug/outRp.0.1.0.nupkg" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/bin/Debug/outRp.0.1.0.nupkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/bin/Release/net5.0-windows/outRp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/bin/Release/net5.0-windows/outRp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/bin/Release/net5.0-windows/outRp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/bin/Release/net5.0-windows/outRp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/bin/Release/net5.0-windows/ref/outRp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/bin/Release/net5.0-windows/ref/outRp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/bin/Release/outRp.0.1.0.nupkg" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/bin/Release/outRp.0.1.0.nupkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/obj/Debug/net5.0-windows/outRp.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/obj/Debug/net5.0-windows/outRp.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/obj/Debug/net5.0-windows/outRp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/obj/Debug/net5.0-windows/outRp.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/obj/Debug/net5.0-windows/outRp.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/obj/Debug/net5.0-windows/outRp.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/obj/Debug/net5.0-windows/outRp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/obj/Debug/net5.0-windows/outRp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/obj/Debug/net5.0-windows/outRp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/obj/Debug/net5.0-windows/outRp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/obj/Debug/net5.0-windows/outRp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/obj/Debug/net5.0-windows/outRp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/obj/Debug/net5.0-windows/ref/outRp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/obj/Debug/net5.0-windows/ref/outRp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/obj/Debug/outRp.0.1.0.nuspec" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/obj/Debug/outRp.0.1.0.nuspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/obj/Release/net5.0-windows/outRp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/obj/Release/net5.0-windows/outRp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/obj/Release/net5.0-windows/outRp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/obj/Release/net5.0-windows/outRp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/obj/Release/net5.0-windows/outRp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/obj/Release/net5.0-windows/outRp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/obj/Release/net5.0-windows/ref/outRp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/obj/Release/net5.0-windows/ref/outRp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/obj/outRp.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/obj/outRp.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outRp/outRp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/outRp/outRp.csproj" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1o4kqzQFP7M5DjT1QMfr48yj2Zl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e3a1bd7-64dc-4211-8afe-408c9940764f" name="Default Changelist" comment="" />
+      <created>1612553445355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612553445355</updated>
+      <workItem from="1612553446887" duration="22000" />
+      <workItem from="1622969625339" duration="83000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

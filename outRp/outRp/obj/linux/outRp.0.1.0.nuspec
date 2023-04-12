@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>outRp</id>
+    <version>0.1.0</version>
+    <authors>Onur Fidan</authors>
+    <description>Package Description</description>
+    <copyright>Tüm hakları saklıdır.</copyright>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="AltV.Net" version="12.0.1" exclude="Build,Analyzers" />
+        <dependency id="AltV.Net.Async" version="12.0.1" exclude="Build,Analyzers" />
+        <dependency id="AltV.Net.EntitySync" version="1.18.0" exclude="Build,Analyzers" />
+        <dependency id="AltV.Net.EntitySync.ServerEvent" version="12.0.1" exclude="Build,Analyzers" />
+        <dependency id="AltV.Net.Interactions" version="12.0.1" exclude="Build,Analyzers" />
+        <dependency id="AltV.Net.Resources.Chat.Api" version="12.0.1" exclude="Build,Analyzers" />
+        <dependency id="CodeKicker.BBCode.Core" version="1.4.2.1" exclude="Build,Analyzers" />
+        <dependency id="Discord.Net" version="2.3.1" exclude="Build,Analyzers" />
+        <dependency id="Discord.Net.Commands" version="2.3.1" exclude="Build,Analyzers" />
+        <dependency id="Discord.Net.Core" version="2.3.1" exclude="Build,Analyzers" />
+        <dependency id="Discord.Net.Webhook" version="2.3.1" exclude="Build,Analyzers" />
+        <dependency id="Elastic.Apm.NetCoreAll" version="1.9.0" exclude="Build,Analyzers" />
+        <dependency id="MySqlConnector" version="2.1.3" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+        <dependency id="prometheus-net" version="4.1.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="G:\GITHUB Projeleri\lsc-rp\outRp\outRp\bin\linux\net6.0\outRp.dll" target="lib\net6.0\outRp.dll" />
+  </files>
+</package>

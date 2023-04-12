@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>outRp</id>
+    <version>0.1.0</version>
+    <authors>Onur Fidan</authors>
+    <description>Package Description</description>
+    <copyright>Tüm hakları saklıdır.</copyright>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="AltV.Net" version="14.0.1" exclude="Build,Analyzers" />
+        <dependency id="AltV.Net.Async" version="14.0.1" exclude="Build,Analyzers" />
+        <dependency id="AltV.Net.EntitySync" version="1.18.0" exclude="Build,Analyzers" />
+        <dependency id="AltV.Net.EntitySync.ServerEvent" version="14.0.1" exclude="Build,Analyzers" />
+        <dependency id="AltV.Net.Interactions" version="14.0.1" exclude="Build,Analyzers" />
+        <dependency id="AltV.Net.Resources.Chat.Api" version="14.0.1" exclude="Build,Analyzers" />
+        <dependency id="CodeKicker.BBCode.Core" version="1.4.2.1" exclude="Build,Analyzers" />
+        <dependency id="Elastic.Apm.NetCoreAll" version="1.20.0" exclude="Build,Analyzers" />
+        <dependency id="Kook.Net" version="0.3.1" exclude="Build,Analyzers" />
+        <dependency id="Kook.Net.Commands" version="0.3.1" exclude="Build,Analyzers" />
+        <dependency id="Kook.Net.Core" version="0.3.1" exclude="Build,Analyzers" />
+        <dependency id="Kook.Net.Rest" version="0.3.1" exclude="Build,Analyzers" />
+        <dependency id="Kook.Net.WebSocket" version="0.3.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="7.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="7.0.0" exclude="Build,Analyzers" />
+        <dependency id="MySqlConnector" version="2.2.5" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+        <dependency id="prometheus-net" version="8.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\1\outRp\outRp\bin\Release\net6.0\outRp.dll" target="lib\net6.0\outRp.dll" />
+  </files>
+</package>
